@@ -4,11 +4,11 @@ plugins {
 
 android {
     namespace 'com.feifan.apkpatch'
-    compileSdk 36
+    compileSdk 35
 
     defaultConfig {
         minSdk 26
-
+        targetSdkVersion 34
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
         consumerProguardFiles "consumer-rules.pro"
         externalNativeBuild {

@@ -23,5 +23,6 @@ dependencyResolutionManagement {
     }
 }
 
+rootProject.name = "Smart Update"
 include ':demo'
 include ':apkpatch'
