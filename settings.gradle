@@ -1,1 +1,2 @@
-include ':app', ':updatelib', ':demo'
+include ':demo'
+include ':apkpatch'

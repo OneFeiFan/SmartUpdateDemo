@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <!-- 根据你的需求配置路径 -->
+    <files-path name="files" path="."/>
+    <!-- 或者使用其他路径类型 -->
+    <!-- <files-path name="name" path="path" /> -->
+    <!-- <cache-path name="name" path="path" /> -->
+</paths>
+

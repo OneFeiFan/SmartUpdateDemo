@@ -12,7 +12,7 @@
         android:layout_height="wrap_content" />
 
     <TextView
-        android:text="新版本"
+        android:text=""
         android:textSize="20sp"
         android:layout_marginTop="10dp"
         android:textColor="#FF0000"
