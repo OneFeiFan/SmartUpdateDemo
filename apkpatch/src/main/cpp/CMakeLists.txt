@@ -58,7 +58,7 @@ add_libdivsufsort()
 
 # bsdiff
 add_library(${CMAKE_PROJECT_NAME} SHARED
-        native-lib.cpp
+        apkpatch.cpp
         source/bsdiff_private.h
         source/misc.c
         source/stream_file.c
